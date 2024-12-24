@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Kulkarni</h1>
 <h3 align="center">A final-year B.Tech student in Computer Science & Engineering. I'm passionate about building full-stack applications using the MERN stack and have developed projects like e-commerce apps and password managers,Excited to work on many more Projects with Different Technologies</h3>
 
-- 🔭 I’m currently working on [Grocery-Grove](https://github.com/manishkulkarni2003/GroceryGrove)
+- 🔭 I’m currently working on [Grocery-Grove](https://github.com/manishkulkarni2003/Grocery_Grove)
 
 - 🌱 I’m currently learning **React**
 
